@@ -1,18 +1,18 @@
 {
   "appName": {
-    "message": "Trello Card Colours",
+    "message": "Trello Card Colors",
     "description": "The name of the application"
   },
   "appShortName": {
-    "message": "Trello Card Colours",
+    "message": "Trello Card Colors",
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "ラベルの色でカードを塗りつぶすCard Colors for Trelloの代替拡張",
+    "message": "ラベルの色でカードを塗りつぶすCard Colors for Trelloの代替拡張.公式のカバー機能よりも簡単で便利",
     "description": "The description of the application"
   },
   "browserActionTitle": {
-    "message": "Trello Card Colours",
+    "message": "Trello Card Colors",
     "description": "The title of the browser action button"
   }
 }
