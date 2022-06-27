@@ -1,7 +1,7 @@
 {
   "name": "Trello-Card-Colors",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fill cards on Trello with each label-color. Easier than official cover func. A substitute extension for Card Colors for Trello.",
   "scripts": {
     "start": "npm run dev:chrome",
